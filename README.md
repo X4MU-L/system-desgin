@@ -53,7 +53,7 @@
     AccountService --> CoreBankingSystem
 ```
 
-## Asyncronous Event Flow Diagram
+## Asyncronous Event Flow Diagram (Account Service)
 
 ```mermaid
 sequenceDiagram
